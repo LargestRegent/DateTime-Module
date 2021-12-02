@@ -1,0 +1,6 @@
+import datetime
+
+current_date = datetime.datetime.today()
+print(current_date)
+
+datetime.datetime(2021, 2, 26, 12, 59, 32, 944167)
